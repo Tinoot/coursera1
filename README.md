@@ -1,5 +1,5 @@
 coursera1
 =========
-
-coursera first course - toolbox week one Ian Hollingsworth
-Developing data science skills for landscape analysis
+Ian Hollingsworth
+coursera first course - data scientists toolbox week one 
+Aim to develop data science skills for landscape analysis
